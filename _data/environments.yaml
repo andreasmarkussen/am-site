@@ -1,0 +1,9 @@
+- name: NO9D6201
+  tia_core: 6.2
+  db_host: db08
+  ui_url: http://some_forms_page.local
+
+- name: NO9T6201
+  tia_core: 6.2
+  db_host: 6.2
+  
